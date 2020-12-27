@@ -4444,6 +4444,11 @@ margin-bottom: 0;
 font-size: 14px;
 }
 
+#gallery {
+	background-color: #555;
+}
+
+
 #gallery .item{
 overflow:hidden;
 }
